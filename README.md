@@ -3,9 +3,9 @@ Setup
 
 # Initializing files
 Place everything (except this file) to your website root directory.  
-For XAMPP, it's usually at `<XAMPP install directory>/htdocs`.  
-For Laragon, it's usually at `<Laragon install directory>/www`.  
-For Linux, it's usually at `\etc\var\www`.
+For XAMPP, it's usually at `<XAMPP install directory>\htdocs`.  
+For Laragon, it's usually at `<Laragon install directory>\www`.  
+For Linux, it's usually at `/var/www/html`.
 
 # Database
 Open `localhost/reset.html` and press `Yes` to initialize database.
